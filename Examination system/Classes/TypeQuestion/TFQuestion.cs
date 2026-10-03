@@ -32,7 +32,7 @@ namespace Examination_system.Classes.TypeQuestion
         public override void CreateQuestion()
         {
             Console.Write("Enter Question Body: ");
-            string? Body = Console.ReadLine() ?? "";
+             Body = Console.ReadLine() ?? "";
             
             
 
